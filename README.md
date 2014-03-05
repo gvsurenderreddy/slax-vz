@@ -1,4 +1,4 @@
 slax-vz
 =======
 
-slax scripts created for verizon
+This Repository is created to host scripts developed in slax (hence the name slax-vz). These scripts are exclusively developed for verizon. 
